@@ -1,0 +1,51 @@
+/* .display-container {
+    background: linear-gradient(to right,#007bff, #0088ff);
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .display-content {
+    animation: fadeIn 1s ease;
+  }
+  
+  .rating {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    color: #ffffff;
+    margin-bottom: 10px;
+  }
+  
+  .icon {
+    margin-right: 5px;
+  }
+  
+  .titles {
+    font-weight: bold;
+    margin-right: 5px;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  .download-link {
+    display: block;
+    margin-top: 20px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .download-link:hover {
+    background-color: #0056b3;
+  }
+   */
